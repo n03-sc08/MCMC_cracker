@@ -1,4 +1,4 @@
-# Markov chain Monte Carlo algorithm to crack substitution ciphers
+# MCMC Cracker
 
 Cracks **monoalphabetic substitution ciphers** without knowing the key, using a Markov-chain Monte Carlo (MCMC) style search. It scores candidate decryptions against English letter-pair (bigram) statistics and shows the search live in a small window.
 
